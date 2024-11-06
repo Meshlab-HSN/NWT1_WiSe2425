@@ -1,4 +1,4 @@
 # An entry has to look like:
-# - team: X
-#   name: "<your name>"
-#   ssh_key: "<your public ssh key>"
+# - team: 3
+#   name: "<JohannesTschirge>"
+#   ssh_key: "<siehe fotos, key muss in powershell generiert werden.>"
