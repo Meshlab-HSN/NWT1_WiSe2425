@@ -2,7 +2,6 @@
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>"
 
-
 - team: 6
   name: "David"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQPDi8mA8avtJ5Y9sYz0Skf/sVaZzcn4AKvon9Gc01n dafkl@SmokersBBQFujin"
@@ -13,6 +12,9 @@
 - team: 1
   name: "cboenisch"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJKB9hv2PvMgmD8/UsVEtkdCkjeZGJ0X+02qeZNB737W kalich@kalich"
+- team: 1
+  name: "NikolasTrunk"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAhy+OF0tDYuIcz24NXWkBp9leX5uVZPg4gUEYFeSf46 nikolas@Wambo"
   
 - team: 2
   name: "OMI"
