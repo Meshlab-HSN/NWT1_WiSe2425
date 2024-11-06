@@ -2,3 +2,7 @@
 # - team: X
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>"
+
+- team: X
+  name: "Jonas"
+  ssh_key: "ssh"
