@@ -1,4 +1,8 @@
 # An entry has to look like:
-# - team: 3
-#   name: "<schnellerPfeil>"
-#   ssh_key: "<AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V>"
+# - team: 
+#   name: "<your name>"
+#   ssh_key: "<your public ssh key>"
+
+- team: 3
+  name: "<schnellerPfeil>"
+  ssh_key: "<AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V>"
