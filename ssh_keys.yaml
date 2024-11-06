@@ -41,3 +41,8 @@
 - team: 10
   name: "Til"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAuEbgtf+8T3yu+VWF+iLYwNtOJQSf8K4FIhiGhl4Uj0 til.kaiser"
+
+- team: 7
+  name: "TimonHSN"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJFXj3nMQ1Shd+Dp+dOG0g4dvybG5yWnRbMjg/dwDfV+"
+  
