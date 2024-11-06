@@ -1,4 +1,3 @@
-# An entry has to look like:
 # - team: X
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>"
@@ -6,6 +5,10 @@
 - team: 2
   name: "OMI"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOX879s8dFLu4kLMgmj/6kAc/+F20AEeyj1HtnZrwRwE michel@DESKTOP-V8FJMKR"
+  
+- team: 3
+  name: "JohannesTschirge"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFZ9bIFvLmZzVqv0aQsZghomwSdRzgrjDfz13LYlKZV"
   
 - team: 5
   name: "jwille"
