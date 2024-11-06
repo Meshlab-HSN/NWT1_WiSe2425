@@ -1,4 +1,7 @@
 # An entry has to look like:
 # - team: X
 #   name: "<your name>"
-#   ssh_key: "<your public ssh key>"
+#   ssh_key: "<your public ssh key"
+- team: 1
+  name: "NikolasTrunk"
+  ssh_key: "AAAAC3NzaC1lZDI1NTE5AAAAIAhy+OF0tDYuIcz24NXWkBp9leX5uVZPg4gUEYFeSf46"
