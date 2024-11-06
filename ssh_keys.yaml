@@ -3,6 +3,9 @@
 #   ssh_key: "<your public ssh key>"
 
 - team: 6
+  name: "David"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQPDi8mA8avtJ5Y9sYz0Skf/sVaZzcn4AKvon9Gc01n dafkl@SmokersBBQFujin"
+- team: 6
   name: "Hannes"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBctelIXavp62dTlTNgSSdpEtvD0rAppxXcLl/A3a3B hanne@HansLaptop"
 - team: 2
