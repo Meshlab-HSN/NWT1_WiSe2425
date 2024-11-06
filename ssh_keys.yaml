@@ -2,3 +2,7 @@
 # - team: 3
 #   name: "<JohannesTschirge>"
 #   ssh_key: "<siehe fotos, key muss in powershell generiert werden.>"
+
+ - team: 3
+   name: "<JohannesTschirge>"
+   ssh_key: "<ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFZ9bIFvLmZzVqv0aQsZghomwSdRzgrjDfz13LYlKZV>"
