@@ -3,6 +3,6 @@
 #  name: "<Alexander_Ahmed>"
 #  ssh_key: "<>"
 
-team: 4
-name: "Alexander_Ahmed"
-ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC//QRSquqJF1FgTxkW+mIE9e7YY3VFMxi5CHVvLLQVb user@AleXSeINCoMPutER"
+- team: 4
+  name: "Alexander_Ahmed"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC//QRSquqJF1FgTxkW+mIE9e7YY3VFMxi5CHVvLLQVb user@AleXSeINCoMPutER"
