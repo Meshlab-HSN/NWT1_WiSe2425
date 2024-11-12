@@ -5,6 +5,7 @@ Host nwt-stepping-stone
 	IdentityFile path/to/your/private/key/file
 
 Host nwt-vm
+	# XX = 10 + Teamnummer
 	Hostname 172.20.1.XX
 	User root
 	Port 22
