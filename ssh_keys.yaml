@@ -29,7 +29,7 @@
   
 - team: 5
   name: "jwille"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAyAdntZJ3XbtpPCqjg3QOdsUop6STugTJO9Pt1LNkbY"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPM5El6BPfgwlBUz0hnnhEk7jX8tV7XZloJEHQY8FK1u userland@localhost"
 
 - team: 6
   name: "David"
