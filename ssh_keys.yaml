@@ -10,9 +10,12 @@
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAhy+OF0tDYuIcz24NXWkBp9leX5uVZPg4gUEYFeSf46 nikolas@Wambo"
   
 - team: 2
-  name: "OMI"
+  name: "Michel"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOX879s8dFLu4kLMgmj/6kAc/+F20AEeyj1HtnZrwRwE michel@DESKTOP-V8FJMKR"
-  
+- team: 2
+  name: "Omar"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaF8rlCvEKAwPoCqyQRoEb+3PyzSJeU8RyPFCzeDDxV"
+
 - team: 3
   name: "JohannesTschirge"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFZ9bIFvLmZzVqv0aQsZghomwSdRzgrjDfz13LYlKZV"
