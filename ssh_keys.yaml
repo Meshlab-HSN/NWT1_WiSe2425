@@ -49,3 +49,6 @@
   name: "TimonHSN"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJFXj3nMQ1Shd+Dp+dOG0g4dvybG5yWnRbMjg/dwDfV+"
   
+- team: 8
+  name: "ChrNTW"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMo182CMxTyG8ZUh1wRa9qJSrQ6TdWa74MSgp67eXR5n"
