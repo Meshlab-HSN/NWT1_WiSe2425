@@ -4,7 +4,7 @@
   
 - team: 1
   name: "cboenisch"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJKB9hv2PvMgmD8/UsVEtkdCkjeZGJ0X+02qeZNB737W kalich@kalich"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6czETtXVxpaB5qVLoPFmZZQ1wQ8GL5qIQjegAUOstz kalich@pc04"
 - team: 1
   name: "NikolasTrunk"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAhy+OF0tDYuIcz24NXWkBp9leX5uVZPg4gUEYFeSf46 nikolas@Wambo"
