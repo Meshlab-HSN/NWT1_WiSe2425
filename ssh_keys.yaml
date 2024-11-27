@@ -56,3 +56,7 @@
 - team: 13
   name: "Hannes"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBctelIXavp62dTlTNgSSdpEtvD0rAppxXcLl/A3a3B hanne@HansLaptop"
+
+- team: 14
+  name: "Ahmed"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIz/nC/UTShjaz/TaLMJA0fJt50yOAQWhJqYsMx+KRSR ahmed gamil@DESKTOP-H53Q5D3"
